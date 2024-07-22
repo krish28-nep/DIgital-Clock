@@ -1,0 +1,23 @@
+body{
+    background-image: url(assets/back_img.jpg);
+    background-size: cover;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    color:white;
+    margin: 0;
+    align-content: center;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    
+}
+
+.Clock-Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 550px;
+    height: 250px;
+    backdrop-filter: blur(2px);
+}
